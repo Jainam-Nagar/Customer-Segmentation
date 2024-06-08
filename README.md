@@ -34,8 +34,8 @@ The dataset used for this project is `Mall_Customers.csv`, which contains the fo
 
 ## Files Included
 
-- `customer_segments.csv`: Resulting dataset with assigned clusters.
-- `customer_segmentation.ipynb`: Jupyter Notebook containing the project code.
+- `Mall_Customers.csv`: Resulting dataset with assigned clusters.
+- `Customer_Segmentation.ipynb`: Jupyter Notebook containing the project code.
 
 ## Dependencies
 
@@ -50,8 +50,8 @@ Ensure you have the following libraries installed:
 
 1. Clone the repository.
 2. Install dependencies using `pip install -r requirements.txt`.
-3. Run `customer_segmentation.ipynb` to reproduce the analysis and visualizations.
-4. Explore `customer_segments.csv` for detailed customer segmentation results.
+3. Run `Customer_Segmentation.ipynb` to reproduce the analysis and visualizations.
+4. Explore `Mall_Customers.csv` for detailed customer segmentation results.
 
 ## Contributor
 
